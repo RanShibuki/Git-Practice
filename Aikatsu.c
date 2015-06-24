@@ -3,21 +3,12 @@
  
 int main(void) {
   
-  printf("アイカツ！");
-  printf("アイカツ！");
+    int i;
+
+    for(i = 0; i < 10; i++){
+        printf("アイカツ！");
+    }
   
-  printf("アイカツ！");
-  printf("アイカツ！");
-  
-  printf("アイカツ！");
-  printf("アイカツ！");
-  
-  printf("アイカツ！");
-  printf("アイカツ！");
-  
-  printf("アイカツ！");
-  printf("アイカツ！");
-  
-  return 0;
+    return 0;
 }
 
