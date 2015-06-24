@@ -1,6 +1,7 @@
  
 #include <stdio.h>
- 
+#include "Ichigo.h"
+
 int main(void) {
   
     int i;
@@ -9,6 +10,8 @@ int main(void) {
         printf("アイカツ！");
     }
   
+    self_intro_Ichigo();
+
     return 0;
 }
 
